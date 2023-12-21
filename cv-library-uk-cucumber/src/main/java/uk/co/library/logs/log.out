@@ -1,0 +1,2 @@
+2023-12-21 14:12:180 INFO  HomePage :68 - Enter job title : [[ChromeDriver: chrome on windows (e23b208b6417b64d959d8ffb5bd8c156)] -> xpath: //input[@id='keywords']]
+2023-12-21 14:12:414 INFO  HomePage :73 - Enter job location : [[ChromeDriver: chrome on windows (e23b208b6417b64d959d8ffb5bd8c156)] -> xpath: //input[@id='location']]
